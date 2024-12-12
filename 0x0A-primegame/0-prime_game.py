@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 """Module for Prime Game."""
 
+
 def isWinner(x: int, nums: list) -> str:
     """
     Determines the winner of each game round between Maria and Ben.
