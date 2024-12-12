@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-def isWinner(x, nums):
+def isWinner(x: int, nums: list) -> str:
     """
     Determines the winner of each game round between Maria and Ben.
 
